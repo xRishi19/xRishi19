@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Rishi, a computer science student @ Virginia Tech. I am interested in machine learning and AI, specifically generative AI and computer vision
 <!--
 **xRishi19/xRishi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
